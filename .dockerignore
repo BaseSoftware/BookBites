@@ -1,0 +1,5 @@
+# exclude folders and files from the Docker process. Reduces image size
+node_modules
+build
+.dockerignore
+Dockerfile

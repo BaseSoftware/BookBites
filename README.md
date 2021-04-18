@@ -9,7 +9,7 @@ docker build -t bookbitsimg .
 ```
 - Run **docker run** to create container and run react application
 ```bash
-docker run -it --rm -v ${PWD}:/usr/src/app -v /usr/src/app/node_modules -p 3001:3000 --name bookbits-app bookbitsimg
+docker run -it --rm -v ${pwd}:/usr/src/app -v /usr/src/app/node_modules -p 3001:3000 --name bookbits-app bookbitsimg
 ```
 - Go to http://localhost:3001/
 

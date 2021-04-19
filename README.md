@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/baseSoftLogo.png" width="450" height="160">
+  <img src="./src/assets/baseSoftLogo.png" width="450" height="160">
 </p>
 
 # BookBits
